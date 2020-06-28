@@ -1,12 +1,12 @@
 <h1>WELCOME TO NABAJYOTI'S GITHUB PAGE</h1>
 
-The Project's aim to make a Bot which can operate by itself avoiding obstacle
-which will come in front of it on its way. Ultra sonic sensor is used to 
-sense the object in front of it.Servo motor alsop have been connected to 
-move the sensor arround it And to check obstacle is there or not.
+**The Project's aim to make a Bot which can operate by itself avoiding obstacle
+  which will come in front of it on its way. Ultra sonic sensor is used to 
+  sense the object in front of it.Servo motor alsop have been connected to 
+  move the sensor arround it And to check obstacle is there or not.**
   
 
-<h2>COMPONENT REQUIRED</h1>
+<h2>COMPONENT REQUIRED</h2>
 
 1.ARDUINO
    
