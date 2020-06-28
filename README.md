@@ -5,7 +5,9 @@ which will come in front of it on its way. Ultra sonic sensor is used to
 sense the object in front of it.Servo motor alsop have been connected to 
 move the sensor arround it And to check obstacle is there or not.**
   
+
 <h2>COMPONENT REQUIRED</h1>
+
 1.ARDUINO
    
 ![ard](/photo/23.JPG)
