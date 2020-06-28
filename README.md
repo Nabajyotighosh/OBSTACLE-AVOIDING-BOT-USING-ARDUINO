@@ -1,37 +1,40 @@
-## Welcome to GitHub Pages
+<h1>          WELCOME TO NABAJYOTI'S GITHUB PAGE</h1>
 
-You can use the [editor on GitHub](https://github.com/Nabajyotighosh/OBSTACLE-AVOIDING-BOT-USING-ARDUINO/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+**The Project's aim to make a Bot which can operate by itself avoiding obstacle
+  which will come in front of it on its way. Ultra sonic sensor is used to 
+  sense the object in front of it.Servo motor alsop have been connected to 
+  move the sensor arround it And to check obstacle is there or not.**
+  
+<h2>COMPONENT REQUIRED</h1>
+ 1.ARDUINO
+   
+ ![ard](/photo/23.JPG)
+   
+ 2.ULTRASONIC SENSOR
+ 
+ ![UR](/photo/29.JPG)
+ 
+ 3.SERVO MOTOR
+ 
+ ![se](/photo/25.jpg)
+ 
+ 4.HC-05
+ 
+ ![hc](/photo/28.jpg)
+ 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<h2>FUNCTION PREVIEW</h2>
+*In this project first the ultrasonic sensor measure the distance and send to arduino.arduino checks
+  the distance is very small or not if the distance is very less it stop the bot and turns the servo
+  motor to left and right and checks in which directin the distance is less.The direction in which 
+  the distance is less the arduino moves the bot in that direction.*
 
-### Markdown
+<h2>CIRCUIT DIAGRAM</h2>
+  *The ciruit diagram is given below only the HC-05 is not available here it will be connected to arduino
+  as the rx will be connected to arduino tx pin and tx pin will be connected to rx pin of arduino.*
+    
+  ![cir](/photo/final_auto.JPG)
+  
+**PROJECT FILE** :-
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Nabajyotighosh/OBSTACLE-AVOIDING-BOT-USING-ARDUINO/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+**PROJECT VIDEO**:-
