@@ -41,4 +41,4 @@ as the rx will be connected to arduino tx pin and tx pin will be connected to rx
   
 **PROJECT FILE** :-[LINK](https://github.com/Nabajyotighosh/OBSTACLE-AVOIDING-BOT-USING-ARDUINO)
 
-**PROJECT VIDEO**:-[VIDEO](
+**PROJECT VIDEO**:-[VIDEO](https://youtu.be/3r-Z65ce6uw)
