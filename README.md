@@ -27,18 +27,18 @@
 
 <h2>FUNCTION PREVIEW</h2>
 
-In this project first the ultrasonic sensor measure the distance and send to arduino.arduino checks
+*In this project first the ultrasonic sensor measure the distance and send to arduino.arduino checks
 the distance is very small or not if the distance is very less it stop the bot and turns the servo
 motor to left and right and checks in which directin the distance is less.The direction in which 
-the distance is less the arduino moves the bot in that direction.
+the distance is less the arduino moves the bot in that direction.*
 
 <h2>CIRCUIT DIAGRAM</h2>
 
-The ciruit diagram is given below only the HC-05 is not available here it will be connected to arduino
-as the rx will be connected to arduino tx pin and tx pin will be connected to rx pin of arduino.
+*The ciruit diagram is given below only the HC-05 is not available here it will be connected to arduino
+as the rx will be connected to arduino tx pin and tx pin will be connected to rx pin of arduino.*
 
 ![cir](/photo/final_auto.JPG)
   
-**PROJECT FILE** :-
+**PROJECT FILE** :-[LINK]
 
 **PROJECT VIDEO**:-
