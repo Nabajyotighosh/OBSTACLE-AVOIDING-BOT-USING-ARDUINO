@@ -39,6 +39,6 @@ as the rx will be connected to arduino tx pin and tx pin will be connected to rx
 
 ![cir](/photo/final_auto.JPG)
   
-**PROJECT FILE** :-[LINK]
+**PROJECT FILE** :-[LINK](https://github.com/Nabajyotighosh/OBSTACLE-AVOIDING-BOT-USING-ARDUINO)
 
-**PROJECT VIDEO**:-
+**PROJECT VIDEO**:-[VIDEO](
